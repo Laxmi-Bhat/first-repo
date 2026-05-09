@@ -1,2 +1,2 @@
 # first-repo
-My first repo ..Learning Git
+My first repo ..Learning Git.
